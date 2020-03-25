@@ -1,6 +1,6 @@
-# Victor Hugo
+# Tamil Toddlers
 
-**A Hugo boilerplate for creating truly epic websites**
+**Engaging your little ones and Teaching them Tamil**
 
 This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline.
 
